@@ -6,6 +6,9 @@ Objetive
 Feature
 	The program can create new excel file per year if not exist in the same directory location where is the program
 	Write into the excel file
+	
+Problem 
+	Only works with Linux Ubuntu
 
 Imported Packages
 	Tkinter
@@ -16,6 +19,7 @@ Imported Packages
 Future Improvements
 	Visualize Data 
 	Add Databases
+
 Programmer
 	Jose A. Garcia Osorio
 	
